@@ -1,2 +1,3 @@
 Added Black theme feature 
 resolve bug in black theme
+add some more features in black theme
