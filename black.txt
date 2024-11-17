@@ -1,2 +1,0 @@
-Added Black theme feature 
-resolve bug in black theme
