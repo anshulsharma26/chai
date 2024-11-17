@@ -1,1 +1,2 @@
-Added Black theme feature to project
+Added Black theme feature 
+resolve bug in black theme
